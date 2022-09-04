@@ -1,12 +1,19 @@
-## Hi there 👋
+# Welcome to the Next-Gen Chat App 🐱‍👤
 
-<!--
+built with <b>nextjs</b> and a couple of sleepless nights
 
-**Here are some ideas to get you started:**
+check it out: https://texuto.vercel.app/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Credits
+
+developed on hop.io realtime platform, check them out
+
+🗿: https://hop.io/
+📚: https://docs.hop.io/
+
+## Contributors
+
+<ul>
+<li> Blaze: @blaze-dev </li>
+<li> SRI: @srivamsirajesh </li>
+</ul>
