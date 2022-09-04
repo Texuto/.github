@@ -14,6 +14,6 @@ made possible with hop.io realtime platform, check them out
 ## Contributors
 
 <ul>
-<li> Blaze: @blaze-dev </li>
+<li> Blaze: @blaze-pvt </li>
 <li> SRI: @srivamsirajesh </li>
 </ul>
