@@ -6,9 +6,9 @@ check it out: https://texuto.vercel.app/
 
 ## Credits
 
-developed on hop.io realtime platform, check them out
+made possible with hop.io realtime platform, check them out
 
-🗿: https://hop.io/
+🗿: https://hop.io/ <br>
 📚: https://docs.hop.io/
 
 ## Contributors
