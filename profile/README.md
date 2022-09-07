@@ -1,6 +1,6 @@
 # Welcome to the Next-Gen Chat App 🐱‍👤
 
-built with <b>nextjs</b> and a couple of sleepless nights
+built with <b>nextjs, ts</b> and a couple of sleepless nights
 
 check it out: https://texuto.vercel.app/
 
